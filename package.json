@@ -1,0 +1,11 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gazouly/typescript.git",
+  "author": "Gazouly <m.elgazouly@brimore.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
